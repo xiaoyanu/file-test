@@ -1,0 +1,1 @@
+console.log("\n\n\n %c 个人主页 By：小言u %c https://github.com/xiaoyanu/Home-page","color:#fff;background:linear-gradient(90deg,#448bff,#44e9ff);padding:5px 0;","color:#000;background:linear-gradient(90deg,#44e9ff,#ffffff);padding:5px 10px 5px 0px;");
